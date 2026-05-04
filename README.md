@@ -1,4 +1,7 @@
 Bear Stacker - 2D Physics Game
+## Game Preview
+![Menu](menu.png)
+![Gameplay](gameplay.png)
 Introduction
 A simple 2D stacking game where players balance bears to achieve the highest score. This project demonstrates my ability to implement game logic and resource management using C++.
 
